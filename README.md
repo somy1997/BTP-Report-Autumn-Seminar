@@ -1,6 +1,4 @@
-This format has been developed by Sarthak Jain (Email: sarthakjain939@gmail.com) for help in writing a thesis as per standards followed in IIT Kharagpur with help from thesis templates from www.sharelatex.com. 
-
-Feel free to use this, improve and add your contribution to the KGP community. 
+This paper summarises the work done on the topic "POS Blockchain with Dynamically Changing Validators" as BTP under the supervision of Prof. Sandip Chakraborty and Dr. Pralhad Deshpande in Autumn Semester at Department of Computer Science and Engineering at IIT Kharagpur. This report was written for B. Tech Project Autumn Seminar (2018-2019) and graded by panelists Prof. Arobinda Gupta and Prof. Sandip Chakraborty of IIT Kharagpur. The format used was originally developed by Sarthak Jain.
 
 Cheers!
-Sarthak
+Nishant
